@@ -992,6 +992,7 @@
 | [Watson Natural Language Understanding](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/) | Natural language processing for advanced text analysis                                              | `OAuth`  |  Yes  | Unknown |
 |                                        [Yomi](https://github.com/ookii-tsuki/yomi)                                        | Japanese tokenizer and morphological analysis web API                                               |    No    |  Yes  |   Yes   |
 
+|                    [OBEDIENCE AI Text API](https://theoxicew-obedience-text-api.hf.space)                     | Summarize, sentiment analysis, keywords, translate & clean text using Llama 3.3 70B |   No     |  Yes  |   Yes   |
 **[⬆ Back to Index](#index)**
 
 ### Tracking
